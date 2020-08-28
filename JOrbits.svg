@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="658px" height="1431px" viewBox="0 0 658 1431" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #242424;">
+    <title>JOrbits</title>
+    <desc>JOrbits Logo</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Polygon" fill="#96C0C7" transform="translate(384.500000, 182.500000) rotate(90.000000) translate(-384.500000, -182.500000) " points="384.5 0 542.549636 273.75 226.450364 273.75"></polygon>
+        <polygon id="Polygon" fill="#005465" transform="translate(384.500000, 538.500000) rotate(90.000000) translate(-384.500000, -538.500000) " points="384.5 356 542.549636 629.75 226.450364 629.75"></polygon>
+        <polygon id="Polygon" fill="#00D3EC" transform="translate(475.500000, 360.500000) scale(-1, 1) rotate(90.000000) translate(-475.500000, -360.500000) " points="475.5 178 633.549636 451.75 317.450364 451.75"></polygon>
+        <polygon id="Polygon" fill="#00D3EC" transform="translate(384.500000, 893.500000) rotate(90.000000) translate(-384.500000, -893.500000) " points="384.5 711 542.549636 984.75 226.450364 984.75"></polygon>
+        <polygon id="Polygon" fill="#AEF4FF" transform="translate(475.500000, 715.500000) scale(-1, 1) rotate(90.000000) translate(-475.500000, -715.500000) " points="475.5 533 633.549636 806.75 317.450364 806.75"></polygon>
+        <polygon id="Polygon" fill="#005465" transform="translate(384.500000, 1248.500000) rotate(90.000000) translate(-384.500000, -1248.500000) " points="384.5 1066 542.549636 1339.75 226.450364 1339.75"></polygon>
+        <polygon id="Polygon" fill="#96C0C7" transform="translate(475.500000, 1070.500000) scale(-1, 1) rotate(90.000000) translate(-475.500000, -1070.500000) " points="475.5 888 633.549636 1161.75 317.450364 1161.75"></polygon>
+        <polygon id="Polygon" fill="#8CC9D4" transform="translate(182.500000, 1248.500000) scale(-1, 1) rotate(90.000000) translate(-182.500000, -1248.500000) " points="182.5 1066 340.549636 1339.75 24.4503638 1339.75"></polygon>
+    </g>
+</svg>
