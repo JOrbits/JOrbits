@@ -2,8 +2,6 @@
 
 [My Games](https://jorbits.itch.io/)
 
-[DaktyGame](https://www.daktygame.ch/)
-
 [Google Play](https://play.google.com/store/apps/developer?id=JOrbits)
 
 [Twitter](https://twitter.com/JOrbitsGames)
